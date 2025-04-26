@@ -10,8 +10,7 @@
 - 📫 Reach me at: **otwiine@gmail.com**
 - ♟️ Fun fact: I'm **great at Chess**!
 
-<hr style="border:1px solid #ccc" />
-
+---
 ### 🖥️ What I'm Working With
 <img align="left" alt="Python" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
 <img align="left" alt="HTML5" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
