@@ -11,16 +11,21 @@
 - ♟️ Fun fact: I'm **great at Chess**!
 
 ---
+### 🖥️ Languages
+<img align="left" alt="Python" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+<img align="left" alt="HTML5" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+<img align="left" alt="CSS3" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+
+<br /><br />
+---
 
 ### 🖥️ Languages
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python Logo" width="30px" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML Logo" width="30px" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS Logo" width="30px" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++ Logo" width="30px" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript Logo" width="30px" />
 
-🐍 Python ![Python Logo](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg)
-- 🌐 HTML ![HTML Logo](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg)
-- 🎨 CSS ![CSS Logo](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg)
----
 
 <!---
 Otwiine/Otwiine is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
