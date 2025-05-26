@@ -5,7 +5,7 @@
 - 🌍 I'm passionate about **Geospatial Analysis** and **Web Development**
 - 📚 Currently learning **Python**, **HTML**, **CSS**, and **Geographical Information Systems (GIS)**
 - 🐍 Python is my main programming language — I'm exploring ways to use AI and ML in my geospatial projects!
-- 🎯 Planning to learn: C++ and JavaScript
+- 🎯 Planning to learn: JavaScript and C++
 - 🤝 Looking to collaborate on **beginner-friendly Python, GIS, and web projects**
 - 📫 Reach me at: **otwiine@gmail.com**
 - ♟️ Fun fact: I **enjoy playing Chess**!
@@ -20,8 +20,8 @@
 <br /><br />
 
 ### 🚀 What's Coming Next
-<img align="left" alt="C++ Logo" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
 <img align="left" alt="JavaScript Logo" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
+<img align="left" alt="C++ Logo" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
 
 <br /><br />
 ---
