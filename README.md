@@ -8,7 +8,7 @@
 - 🎯 Planning to learn: JavaScript and C++
 - 🤝 Looking to collaborate on **beginner-friendly Python, GIS, and web projects**
 - 📫 Reach me at: **otwiine@gmail.com**
-- ♟️ Fun fact: I **enjoy playing Chess**!
+- 🔥 Fun fact: I enjoy playing **chess**, and I’m also really into **basketball** and **athletics** ♟️🏀🏃‍♂️
 
 <hr style="border:1px solid #ccc" />
 
