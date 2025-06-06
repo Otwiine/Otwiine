@@ -1,6 +1,6 @@
 # Welcome to my GitHub! 👋
 
-### 🧠 About Me
+### About Me
 - 👋 Hi, I’m @Otwiine!
 - 🌍 I'm passionate about **Geospatial Analysis** and **Web Development**.
 - 📚 Currently learning **Python**, **HTML**, **CSS**, and **Geographical Information Systems (GIS)**.
@@ -24,7 +24,7 @@
 <img align="left" alt="JavaScript Logo" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
 <img align="left" alt="C++ Logo" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
 
-<br /><br />
+
 ---
 <!---
 Otwiine/Otwiine is a ✨ special ✨ repository because its README.md (this file) appears on your GitHub profile.
