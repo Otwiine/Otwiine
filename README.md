@@ -11,21 +11,7 @@
 - 📫 Reach me at: **otwiine@gmail.com**
 - 🔥 Fun fact: I enjoy playing **chess**, and I’m also really into **basketball** and **athletics**.
 
-<hr style="border:1px solid #ccc" />
 
-### What I'm Working With
-<img align="left" alt="Python" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-<img align="left" alt="HTML5" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
-<img align="left" alt="CSS3" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
-
-<br /><br />
-
-### What's Coming Next
-<img align="left" alt="JavaScript Logo" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
-<img align="left" alt="C++ Logo" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
-
-
-<br /><br />
 
 
 ---
