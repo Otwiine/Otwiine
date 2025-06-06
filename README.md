@@ -11,10 +11,6 @@
 - 📫 Reach me at: **otwiine@gmail.com**
 - 🔥 Fun fact: I enjoy playing **chess**, and I’m also really into **basketball** and **athletics**.
 
-
-
-
----
 <!---
 Otwiine/Otwiine is a ✨ special ✨ repository because its README.md (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
