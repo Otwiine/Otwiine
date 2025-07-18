@@ -12,8 +12,7 @@
 - 🔥 Fun fact: I enjoy playing **chess**, and I’m also passionate about **basketball** and **athletics**
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Otwiine&layout=compact&theme=github_dark&langs_count=6&hide=jupyter%20notebook
-" alt="Top Languages" draggable="false"
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Otwiine&layout=compact&theme=github_dark&langs_count=6" alt="Top Languages" draggable="false"
  />
 </p>
 
