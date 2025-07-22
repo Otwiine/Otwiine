@@ -4,7 +4,7 @@
 - 👋 Hi, I’m **@Otwiine**
 - 🌍 Passionate about **Geospatial Analysis**, **Web Development** and **building things with code**
 - 🧠 Experience in: **Python**, **HTML & CSS**, and **Geographical Information Systems (GIS)**
-- 📚 Currently learning:  **Java**, and **JavaScript**
+- 📚 Currently learning:  **Java** and **JavaScript**
 - 🐍 Python is my main language — currently exploring how to apply **AI and ML** in geospatial projects
 - 🎯 Planning to learn: **C++**
 - 🛠️ Currently building: [**schoolvote-uganda**](https://github.com/Otwiine/schoolvote-uganda) — a simple, cheat-resistant voting system for Ugandan schools
