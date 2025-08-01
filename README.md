@@ -7,7 +7,7 @@
 - 📚 Currently learning:  **Java** and **JavaScript**
 - 🐍 Python is my main language — currently exploring how to apply **AI and ML** in geospatial projects
 - 🎯 Up next: **C++**
-- 🛠️ Currently building: [**schoolvote-uganda**](https://github.com/Otwiine/schoolvote-uganda) — a simple, cheat-resistant voting system for Ugandan schools
+<!---- 🛠️ Currently building: [**schoolvote-uganda**](https://github.com/Otwiine/schoolvote-uganda) — a simple, cheat-resistant voting system for Ugandan schools--->
 - 🤝 Open to collaboration on **beginner-friendly projects**
 - 📫 Reach me at: **otwiine@gmail.com**
 - 🔥 Fun fact: I enjoy playing **chess**, and I’m also passionate about **basketball** and **athletics**
