@@ -12,7 +12,9 @@
 - 📫 Reach me at: **otwiine@gmail.com**
 - 🔥 Fun fact: I enjoy playing **chess**, and I’m also passionate about **basketball** and **athletics**
 
-- ### 🧰 Tech Stack
+---
+
+### Technologies Used
 
 <p>
   <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white" />
@@ -20,17 +22,19 @@
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/IntelliJIDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+  <img src="https://img.shields.io/badge/IntelliJIDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white" />
 </p>
 
+---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Otwiine&layout=compact&theme=github_dark&langs_count=5&hide=jupyter%20notebook" alt="Top Languages" draggable="false" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Otwiine&layout=compact&theme=github_dark&langs_count=6&hide=jupyter%20notebook" alt="Top Languages" draggable="false" />
 </p>
 
 <!---
-
 Otwiine/Otwiine is a ✨ special ✨ repository because its README.md (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
