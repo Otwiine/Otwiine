@@ -30,11 +30,11 @@
 
 ---
 
+<!---
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Otwiine&layout=compact&theme=github_dark&langs_count=6&hide=jupyter%20notebook" alt="Top Languages" draggable="false" />
 </p>
 
-<!---
 Otwiine/Otwiine is a ✨ special ✨ repository because its README.md (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
