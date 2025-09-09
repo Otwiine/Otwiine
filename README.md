@@ -12,7 +12,7 @@
 - 📫 Reach me at: **otwiine@gmail.com**
 - 🔥 Fun fact: I enjoy playing **chess**, and I’m also passionate about **basketball** and **athletics**
 
---
+<hr>
 
 ### Technologies Used
 
@@ -28,7 +28,7 @@
   <img src="https://img.shields.io/badge/IntelliJIDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white" />
 </p>
 
---
+<hr>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Otwiine&layout=compact&theme=github_dark&langs_count=6&hide=jupyter%20notebook" alt="Top Languages" draggable="false" />
