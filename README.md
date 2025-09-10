@@ -1,10 +1,10 @@
-# Welcome to my GitHub!
+# 👋 Welcome to my GitHub!
 
-### About Me
-- 👋 Hi, I’m **@Otwiine**
-- 🌍 Passionate about **Geospatial Analysis**, **Web Development** and **building things with code**
+### 🌍 About Me
+- Hi, I’m **@Otwiine**
+- Passionate about **Geospatial Analysis**, **Web Development**, and **building things with code**
 - 🧠 Experienced in: **Python**, **HTML & CSS**, and **Geographical Information Systems (GIS)**
-- 📚 Currently learning:  **Java** and **JavaScript**
+- 📚 Currently learning: **Java** and **JavaScript**
 - 🐍 Python is my main language — currently exploring how to apply **AI and ML** in geospatial projects
 - 🎯 Up next: **C++**
 - 🛠️ Currently building: [**schoolvote-uganda**](https://github.com/Otwiine/schoolvote-uganda) — a simple, cheat-resistant voting system for Ugandan schools
@@ -12,11 +12,11 @@
 - 📫 Reach me at: **otwiine@gmail.com**
 - 🔥 Fun fact: I enjoy playing **chess**, and I’m also passionate about **basketball** and **athletics**
 
-<hr>
+---
 
-### Technologies Used
+### 🛠️ Technologies I Use
 
-<p>
+<p align="center">
   <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
@@ -28,13 +28,20 @@
   <img src="https://img.shields.io/badge/IntelliJIDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white" />
 </p>
 
-<hr>
+---
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Otwiine&theme=github-dark" alt="Activity graph" />
+### 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Otwiine&layout=compact&theme=github_dark&langs_count=6&hide=jupyter%20notebook" alt="Top Languages" draggable="false" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Otwiine&theme=github-dark" alt="Activity Graph" />
 </p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Otwiine&layout=compact&theme=github_dark&langs_count=6&hide=jupyter%20notebook" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Otwiine&show_icons=true&theme=github_dark" height="150"/>
+</p>
+
+---
 
 <!---
 Otwiine/Otwiine is a ✨ special ✨ repository because its README.md (this file) appears on your GitHub profile.
