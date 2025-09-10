@@ -30,6 +30,8 @@
 
 <hr>
 
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Otwiine&theme=github-dark" alt="Activity graph" />
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Otwiine&layout=compact&theme=github_dark&langs_count=6&hide=jupyter%20notebook" alt="Top Languages" draggable="false" />
 </p>
