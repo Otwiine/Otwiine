@@ -1,4 +1,4 @@
-# 👋 Welcome to my GitHub!
+# Welcome to my GitHub!
 
 ### 🌍 About Me
 - Hi, I’m **@Otwiine**
@@ -14,7 +14,7 @@
 
 ---
 
-### 🛠️ Technologies I Use
+### Technologies I Use
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white" />
@@ -30,20 +30,12 @@
 
 ---
 
-### 📊 GitHub Analytics
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Otwiine&theme=github-dark" alt="Activity Graph" />
-</p>
-
+<!---
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Otwiine&layout=compact&theme=github_dark&langs_count=6&hide=jupyter%20notebook" height="150"/>
   <img src="https://github-readme-stats.vercel.app/api?username=Otwiine&show_icons=true&theme=github_dark" height="150"/>
 </p>
 
----
-
-<!---
 Otwiine/Otwiine is a ✨ special ✨ repository because its README.md (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
