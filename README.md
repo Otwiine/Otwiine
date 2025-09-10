@@ -14,7 +14,7 @@
 
 ---
 
-<p align="center" style="bold">Technologies I Use</p>
+### Technologies I Use
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white" />
