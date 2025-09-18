@@ -7,7 +7,6 @@
 - 📚 Currently learning: **Java** and **JavaScript**
 - 🐍 Python is my main language — currently exploring how to apply **AI and ML** in geospatial projects
 - 🎯 Up next: **C++**
-- 🛠️ Currently building: [**schoolvote-uganda**](https://github.com/Otwiine/schoolvote-uganda) — a simple, cheat-resistant voting system for Ugandan schools
 - 🤝 Open to collaboration on **beginner-friendly projects**
 - 📫 Reach me at: **otwiine@gmail.com**
 - 🔥 Fun fact: I enjoy playing **chess**, and I’m also passionate about **basketball** and **athletics**
@@ -35,7 +34,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Otwiine&layout=compact&theme=github_dark&langs_count=6&hide=jupyter%20notebook" height="150"/>
   <img src="https://github-readme-stats.vercel.app/api?username=Otwiine&show_icons=true&theme=github_dark" height="150"/>
 </p>
-
+- 🛠️ Currently building: [**schoolvote-uganda**](https://github.com/Otwiine/schoolvote-uganda) — a simple, cheat-resistant voting system for Ugandan schools 
 Otwiine/Otwiine is a ✨ special ✨ repository because its README.md (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
