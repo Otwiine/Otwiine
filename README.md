@@ -9,7 +9,7 @@
 - 🎯 Up next: **C++**
 - 🤝 Open to collaboration on **beginner-friendly projects**
 - 📫 Reach me at: **otwiine@gmail.com**
-- 🔥 Fun fact: I enjoy playing **chess**, and I’m also passionate about **basketball** and **athletics**
+- 🔥 Fun facts: I enjoy playing **chess**, and I’m also passionate about **basketball** and **athletics**
 
 ---
 
