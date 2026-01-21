@@ -3,7 +3,7 @@
 ### About Me
 - Hi, I’m **@Otwiine**
 - 🌍 Passionate about **Geospatial Analysis**, **Web Development**, and **building things with code**
-- 🧠 Skilled in **Python**, **HTML & CSS**, and **Geographical Information Systems** (GIS), with over a year of hands-on experience
+- 🧠 Skilled in **Python**, **HTML & CSS**, and **Geographical Information Systems** (GIS)
 - 📚 Currently learning **Java** and **JavaScript**, while continuously improving my **Python**
 - 🐍 Python is my main language — currently exploring how to apply **AI and ML** in geospatial projects
 - 🎯 Next on my list: **C++**
