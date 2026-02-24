@@ -11,11 +11,9 @@
 - 📫 Reach me at: **otwiine@gmail.com**
 - 🔥 Fun facts: I enjoy playing **chess**, and I’m also passionate about **basketball** and **athletics**
 
----
+##  Technologies I Use
 
-## 💻 Technologies I Use
-
-### 🧩 Languages
+###  Languages
 <p>
   <a href="https://www.python.org/doc/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="55" style="margin-right: 15px;"/>
@@ -34,7 +32,7 @@
   </a>
 </p>
 
-### ⚙️ Tools & IDEs
+###  Tools & IDEs
 <p>
   <a href="https://git-scm.com/doc" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="55" style="margin-right: 15px;"/>
@@ -73,7 +71,6 @@
    <img src="https://img.shields.io/badge/Trae%20AI-00C853?style=for-the-badge&logoColor=white" /> 
 </p>
 --->
----
 
 <!---
 <p align="center">
