@@ -33,7 +33,7 @@
 
 </p>
 
-###  Tools & IDEs
+### ⚙️ Tools & IDEs
 <p>
   <a href="https://git-scm.com/doc" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="55" style="margin-right: 15px;"/>
@@ -41,15 +41,24 @@
   <a href="https://docs.github.com/" target="_blank">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="55" style="margin-right: 15px;"/>
   </a>
+
   <a href="https://code.visualstudio.com/docs" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="55" style="margin-right: 15px;"/>
   </a>
+
   <a href="https://www.jetbrains.com/help/idea/getting-started.html" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" width="55" style="margin-right: 15px;"/>
   </a>
+
+  <a href="https://www.jetbrains.com/pycharm/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" width="55" style="margin-right: 15px;"/>
+  </a>
+
+  <!--
   <a href="https://docs.docker.com/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="55"/>
   </a>
+  -->
 </p>
 
 <!--- ### 🧩 Languages
